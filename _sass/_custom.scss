@@ -1,0 +1,37 @@
+/* Small site-specific enhancements layered on top of the Academic Pages theme. */
+
+.page__title {
+  color: $darker-gray;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.project-card {
+  padding: 1.1rem 1.2rem;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  background: mix(#fff, $lighter-gray, 70%);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.04);
+}
+
+.project-card h3 {
+  margin: 0.15rem 0 0.65rem;
+}
+
+.project-card p:last-child {
+  margin-bottom: 0;
+}
+
+.project-card__meta {
+  margin: 0;
+  color: $gray;
+  font-size: $type-size-6;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}

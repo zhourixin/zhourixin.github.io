@@ -30,8 +30,8 @@ I am with the **School of Computer Science, Inner Mongolia University**. I work 
 
 <div class="project-grid">
   <article class="project-card">
-    <p class="project-card__meta">arXiv 2025</p>
-    <h3><a href="https://arxiv.org/abs/2510.01651">LadderMoE</a></h3>
+    <p class="project-card__meta">npj Heritage Science · 2026</p>
+    <h3><a href="https://www.nature.com/articles/s40494-025-02294-6">LadderMoE</a></h3>
     <p>Ladder-side mixture-of-experts adapters for robust recognition of bronze inscriptions across heterogeneous visual domains.</p>
   </article>
   <article class="project-card">

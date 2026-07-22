@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I work on **computer vision and machine learning**, with a particular interest in applying AI to cultural heritage. My recent work spans image-fragment matching and restoration, archaeological dating of Chinese bronzes, open-world recognition, and bronze-inscription recognition.
+I am with the **School of Computer Science, Inner Mongolia University**. I work on **computer vision and machine learning**, with a particular interest in applying AI to cultural heritage. My recent work spans image-fragment matching and restoration, archaeological dating of Chinese bronzes, open-world recognition, and bronze-inscription recognition.
 
 [View publications](/publications/){: .btn .btn--primary }
 [Explore projects](/projects/){: .btn }
@@ -19,6 +19,12 @@ I work on **computer vision and machine learning**, with a particular interest i
 - Fine-grained and open-world recognition
 - Image-fragment matching and restoration
 - AI for archaeology and cultural heritage
+
+## Education
+
+- **2022.09–2026.06** — Doctoral degree in Computer Science and Technology, Jilin University
+- **2019.09–2022.06** — Master's degree in Computer Technology, Jilin University
+- **2012.09–2016.06** — Bachelor's degree in Automation, Jilin University
 
 ## Selected work
 
